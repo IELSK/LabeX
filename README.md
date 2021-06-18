@@ -12,7 +12,7 @@ Plataforma de gerenciamento de viagens espaciais. Desenvolvido em React.js
 
 ## Link do Surge
 
-<a href="lucky-slip.surge.sh">lucky-slip.surge.sh</a>
+<a href="https://lucky-slip.surge.sh/">https://lucky-slip.surge.sh/</a>
 
 Login e senha para acesso protegido:
 pedrobarbosa@gmail.com
