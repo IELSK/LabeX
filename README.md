@@ -3,7 +3,7 @@
 ![logolabex](https://user-images.githubusercontent.com/48807462/121679600-e3be5300-ca8e-11eb-8c04-9103c728b2c7.png)
 
 ## Sobre
-Plataforma de gerenciamento de viagens espaciais. Desenvolvido em React.js
+Plataforma de gerenciamento de viagens espaciais. Desenvolvido em React.js. <br>
 Link do projeto original - <a href="https://github.com/future4code/Pedro-Barbosa/tree/master/semana10/labex">https://github.com/future4code/Pedro-Barbosa/tree/master/semana10/labex</a>
 
 
@@ -16,8 +16,8 @@ Link do projeto original - <a href="https://github.com/future4code/Pedro-Barbosa
 
 <a href="https://lucky-slip.surge.sh/">https://lucky-slip.surge.sh/</a>
 
-Login e senha para acesso protegido:
-pedrobarbosa@gmail.com
+Login e senha para acesso protegido: <br>
+pedrobarbosa@gmail.com <br>
 123456
 
 ## O que funciona
