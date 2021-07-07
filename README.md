@@ -4,6 +4,7 @@
 
 ## Sobre
 Plataforma de gerenciamento de viagens espaciais. Desenvolvido em React.js
+Link do projeto original - <a href="https://lucky-slip.surge.sh/">https://lucky-slip.surge.sh/</a>
 
 ## Recursos utilizados
 - Material UI
@@ -12,7 +13,7 @@ Plataforma de gerenciamento de viagens espaciais. Desenvolvido em React.js
 
 ## Link do Surge
 
-<a href="https://lucky-slip.surge.sh/">https://lucky-slip.surge.sh/</a>
+<a href="https://github.com/future4code/Pedro-Barbosa/tree/master/semana10/labex">https://github.com/future4code/Pedro-Barbosa/tree/master/semana10/labex</a>
 
 Login e senha para acesso protegido:
 pedrobarbosa@gmail.com
